@@ -11,7 +11,7 @@ I am a **senior full stack developer** working with **Javascript/Typescript, Rea
 I have experiment with several languages and frameworks. 
   - I have created GUIs with Objective-C + Cocoa || Vala + GTK || C++/JS + QT
   - I have created games with C/C++ + SDL || C# + Unity || C++ + SDL for Nintendo 3DS & Playstation Portable
-  - I have creates scripts in Python || Ruby || Swift || Bash
+  - I have created scripts in Python || Ruby || Swift || Bash
   - I have created plugins for neovim with vimscript
   - I have created webpages/webapps with php + codeigniter || js + emberjs/reactjs/angularjs
   - I have worked on backend projects with node || expressjs || mongo || graphql
