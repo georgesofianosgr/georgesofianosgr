@@ -1,6 +1,6 @@
 ##  Hello 👋
 I’m George Sofianos (@georgesofianosgr)  
-I am a **senior full stack developer** working with **Javascript/Typescript, React, Node, Graphql, Mongo**.
+I am a **senior full stack developer** working with **Javascript/Typescript, React, Node, Graphql, Mongo, Postgres**.
 
 ## Career 🌱 
 - I started writing code as a hobby at 2008,
